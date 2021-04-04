@@ -11,5 +11,12 @@ module.exports = {
   trailingComma: 'es5',
   semi: true,
   useTabs: false,
-}
+};
+```
+
+## Usage
+
+```shell
+yarn add -D @darmendarizp/prettier-config
+echo '"@darmendariz/prettier-config"' > .prettierrc
 ```

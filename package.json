@@ -1,0 +1,20 @@
+{
+  "name": "@darmendarizp/prettier-config",
+  "version": "1.0.0",
+  "description": "Prettier configuration",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DavidArmendariz/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "configuration"
+  ],
+  "author": "David Armendariz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DavidArmendariz/prettier-config/issues"
+  },
+  "homepage": "https://github.com/DavidArmendariz/prettier-config#readme"
+}

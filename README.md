@@ -18,5 +18,5 @@ module.exports = {
 
 ```shell
 yarn add -D @darmendarizp/prettier-config
-echo '"@darmendariz/prettier-config"' > .prettierrc
+echo '"@darmendarizp/prettier-config"' > .prettierrc
 ```
